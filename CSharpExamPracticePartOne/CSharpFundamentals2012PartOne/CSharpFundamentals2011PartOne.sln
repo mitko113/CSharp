@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartesianCoordinateSystem", "..\TestTelerik01\CartesianCoordinateSystem\CartesianCoordinateSystem.csproj", "{DD080343-2302-4D8C-929E-99A537B4A2F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissCat", "..\TestTelerik01\MissCat\MissCat.csproj", "{191BE39A-07A1-43D6-BF64-8A3620E20686}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForestRoad", "..\TestTelerik01\ForestRoad\ForestRoad.csproj", "{99F7D82C-DC28-488B-8288-180F28BFFC86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryDigits", "..\TestTelerik01\BinaryDigits\BinaryDigits.csproj", "{C3056185-FEE2-4CF3-9DEF-443D8B16C574}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD080343-2302-4D8C-929E-99A537B4A2F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD080343-2302-4D8C-929E-99A537B4A2F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD080343-2302-4D8C-929E-99A537B4A2F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD080343-2302-4D8C-929E-99A537B4A2F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{191BE39A-07A1-43D6-BF64-8A3620E20686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{191BE39A-07A1-43D6-BF64-8A3620E20686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{191BE39A-07A1-43D6-BF64-8A3620E20686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{191BE39A-07A1-43D6-BF64-8A3620E20686}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99F7D82C-DC28-488B-8288-180F28BFFC86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F7D82C-DC28-488B-8288-180F28BFFC86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F7D82C-DC28-488B-8288-180F28BFFC86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F7D82C-DC28-488B-8288-180F28BFFC86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3056185-FEE2-4CF3-9DEF-443D8B16C574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3056185-FEE2-4CF3-9DEF-443D8B16C574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3056185-FEE2-4CF3-9DEF-443D8B16C574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3056185-FEE2-4CF3-9DEF-443D8B16C574}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
