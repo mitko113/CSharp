@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.ModifyBitAtGivenPosition
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.ExtractBitFromInt", "12.ExtractBitFromInt\12.ExtractBitFromInt.csproj", "{78287581-1B8C-45BF-B0B9-61B14CE0F4ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.BitsExchange", "15.BitsExchange\15.BitsExchange.csproj", "{B6506F67-21DF-4217-B608-86937E0906FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -91,6 +93,10 @@ Global
 		{78287581-1B8C-45BF-B0B9-61B14CE0F4ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78287581-1B8C-45BF-B0B9-61B14CE0F4ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78287581-1B8C-45BF-B0B9-61B14CE0F4ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6506F67-21DF-4217-B608-86937E0906FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6506F67-21DF-4217-B608-86937E0906FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6506F67-21DF-4217-B608-86937E0906FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6506F67-21DF-4217-B608-86937E0906FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
