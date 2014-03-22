@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathExpression", "Exam2011ParOne\MathExpression.csproj", "{EDBE8903-C629-44EB-BBFE-87F0DB88F52E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeastMajorityMultiple", "LeastMajorityMultiple\LeastMajorityMultiple.csproj", "{EFBFC13C-5BF8-41F1-8ED6-FB4980AADACF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trapezoid", "Trapezoid\Trapezoid.csproj", "{E7D325BF-63A6-4321-B21E-ACBB7240A33B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddNumber", "OddNumber\OddNumber.csproj", "{E186F57A-1719-499F-BA69-9CC927115E55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDBE8903-C629-44EB-BBFE-87F0DB88F52E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDBE8903-C629-44EB-BBFE-87F0DB88F52E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDBE8903-C629-44EB-BBFE-87F0DB88F52E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDBE8903-C629-44EB-BBFE-87F0DB88F52E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFBFC13C-5BF8-41F1-8ED6-FB4980AADACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFBFC13C-5BF8-41F1-8ED6-FB4980AADACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFBFC13C-5BF8-41F1-8ED6-FB4980AADACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFBFC13C-5BF8-41F1-8ED6-FB4980AADACF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7D325BF-63A6-4321-B21E-ACBB7240A33B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7D325BF-63A6-4321-B21E-ACBB7240A33B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7D325BF-63A6-4321-B21E-ACBB7240A33B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7D325BF-63A6-4321-B21E-ACBB7240A33B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E186F57A-1719-499F-BA69-9CC927115E55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E186F57A-1719-499F-BA69-9CC927115E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E186F57A-1719-499F-BA69-9CC927115E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E186F57A-1719-499F-BA69-9CC927115E55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
