@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*Problem 11.
+ * Write a program that reads a list of letters 
+ * and prints for each letter how many times it
+ * appears in the list.
+ * The letters should be listed in alphabetical order.
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

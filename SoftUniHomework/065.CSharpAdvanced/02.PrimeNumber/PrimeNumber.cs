@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*Problem 02.
+ * Write a Boolean method IsPrime(n) 
+ * that check whether a given integer number n is prime. 
+ */
+
+using System;
 
 namespace _02.PrimeNumber
 {

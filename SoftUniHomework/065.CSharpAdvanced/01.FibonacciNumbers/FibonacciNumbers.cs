@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*Problem 01.
+ * Define a method Fib(n) that
+ * calculates the nth Fibonacci number
+ */
+
+using System;
 
 namespace _01.FibonacciNumbers
 {

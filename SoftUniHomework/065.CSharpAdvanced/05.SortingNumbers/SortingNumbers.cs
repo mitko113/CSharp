@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*Problem 05.
+ *Write a program that reads a number n and a sequence of n integers
+ *sorts them and prints them.
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 

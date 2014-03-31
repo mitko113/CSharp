@@ -1,4 +1,14 @@
-﻿using System;
+﻿/*Problem 07
+ * Write a program to generate the following matrix
+ * of palindromes of 3 letters with r rows and c columns:
+ * 
+ * Example input: 3 6
+ * Example output: aaa aba aca ada aea afa
+                   bbb bcb bdb beb bfb bgb
+                   ccc cec cdc cfc cgc chc
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

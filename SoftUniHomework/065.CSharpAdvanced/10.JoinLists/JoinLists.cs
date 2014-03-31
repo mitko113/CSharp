@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*Problem 10.
+ * Write a program that takes as input two lists of integers and joins them. 
+ * The result should hold all numbers without repeating numbers
+ * and arranged in increasing order. 
+ * The input and output lists are given as integers
+ * separated by a space, each list at a separate line. 
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

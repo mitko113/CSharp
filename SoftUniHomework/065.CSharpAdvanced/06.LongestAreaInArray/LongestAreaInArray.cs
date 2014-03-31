@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*Problem 06.
+ * Write a program to find the longest area 
+ * of equal elements in array of strings. 
+ * Find and print the longest sequence of equal elements.
+ * If multiple sequences have the same maximal length,
+ * print the leftmost of them.
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 

@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*Problem 04.
+ * Write a program that enters two dates in format dd.MM.yyyy
+ * and returns the number of days between them. 
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Globalization;
 
