@@ -1,4 +1,10 @@
-﻿using System;
+﻿/* Problem 03.
+ * Write a program that reads from the console a sequence of n integer
+ * and returns the minimal, the maximal number,
+ * the sum and the average of all numbers 
+ */
+
+using System;
 using System.Linq;
 
 class MinMaxSumAverageOfN

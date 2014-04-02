@@ -31,7 +31,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.DecimalToBinaryNum", "14
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.HexToDecNum", "15.HexToDecNum\15.HexToDecNum.csproj", "{672F6778-9EF3-437D-B5FA-E7E8DEE47AA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.GratestCommonDivisor", "17.GratestCommonDivisor\17.GratestCommonDivisor.csproj", "{2C195C0D-26A8-4A0F-8B7A-3F59BAEB38FB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.GreatestCommonDivisor", "17.GratestCommonDivisor\17.GreatestCommonDivisor.csproj", "{2C195C0D-26A8-4A0F-8B7A-3F59BAEB38FB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.TrailingZeroes", "18.TrailingZeroes\18.TrailingZeroes.csproj", "{E6C3EE21-0105-470A-8A1B-7EB406A41659}"
 EndProject

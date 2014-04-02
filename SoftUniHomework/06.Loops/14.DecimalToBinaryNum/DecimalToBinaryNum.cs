@@ -1,4 +1,10 @@
-﻿using System;
+﻿/* Problem 14.
+ * Using loops write a program that converts an integer number to its binary representation.
+ * The input is entered as long. 
+ * The output should be a variable of type string.
+ */
+
+using System;
 
 namespace _14.DecimalToBinaryNum
 {

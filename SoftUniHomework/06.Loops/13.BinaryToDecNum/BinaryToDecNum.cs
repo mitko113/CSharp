@@ -1,4 +1,10 @@
-﻿using System;
+﻿/* Problem 13.
+ * Using loops write a program that converts a binary integer number to its decimal form. 
+ * The input is entered as string.
+ * The output should be a variable of type long. 
+ */
+
+using System;
 
 namespace _13.BinaryToDecNum
 {

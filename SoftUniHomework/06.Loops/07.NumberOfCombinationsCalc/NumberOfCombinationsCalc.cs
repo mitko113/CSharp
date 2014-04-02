@@ -1,4 +1,9 @@
-﻿using System;
+﻿/* Problem 07.
+ * Your task is to write a program that calculates n! / (k! * (n-k)!)
+ * for given n and k (1 < k < n < 100). 
+ */
+
+using System;
 using System.Numerics;
 using System.Linq;
 

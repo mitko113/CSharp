@@ -1,4 +1,9 @@
-﻿using System;
+﻿/* Problem 12.
+ * Write a program that enters in integer n 
+ * and prints the numbers 1, 2, …, n in random order. 
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -17,8 +22,9 @@ namespace _12.RandomizeNumbers1toN
 
             for (int i = 1; i < n; i++)
             {
-                Console.WriteLine(randomGen.Next(i,n + 1) + " ");
+                Console.Write(randomGen.Next(i,n + 1) + " ");
             }
+            Console.WriteLine();
         }
     }
 }

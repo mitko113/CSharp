@@ -1,4 +1,11 @@
-﻿using System;
+﻿/* Problem 04.
+ * Write a program that generates and prints all possible cards
+ * from a standard deck of 52 cards
+ * The cards should be printed using the classical notation 
+ * (like 5♠, A♥, 9♣ and K♦). 
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

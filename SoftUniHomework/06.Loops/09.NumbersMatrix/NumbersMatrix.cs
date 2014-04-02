@@ -1,4 +1,16 @@
-﻿using System;
+﻿/* Problem 09.
+ * Write a program that reads from the console 
+ * a positive integer number n (1 ≤ n ≤ 20) and prints a matrix 
+ * 
+ * Example input01:2	 Example output: 1 2   
+                                         2 3
+ * 
+ * Example input02:3     Example outpit:1 2 3
+                                        2 3 4
+                                        3 4 5
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 

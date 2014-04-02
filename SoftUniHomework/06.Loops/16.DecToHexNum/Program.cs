@@ -1,4 +1,10 @@
-﻿using System;
+﻿/* Problem 16.
+ * Using loops write a program that converts an integer number to its hexadecimal representation.
+ * The input is entered as long.
+ * The output should be a variable of type string. 
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

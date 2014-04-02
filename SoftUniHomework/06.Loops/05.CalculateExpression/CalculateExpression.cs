@@ -1,4 +1,9 @@
-﻿using System;
+﻿/* Problem 05.
+ * Write a program that, for a given two integer numbers n and x, 
+ * calculates the sum S = 1 + 1!/x + 2!/x2 + … + n!/xn. 
+ */
+
+using System;
 
 namespace _05.CalculateExpression
 {

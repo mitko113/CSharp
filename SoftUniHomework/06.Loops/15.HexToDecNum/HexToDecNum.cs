@@ -1,8 +1,13 @@
-﻿using System;
+﻿/* Problem 15.
+ * Using loops write a program that converts a hexadecimal integer number to its decimal form.
+ * The input is entered as string. 
+ * The output should be a variable of type long. 
+ */
+
+using System;
 using System.Text;
 using System.Collections;
 using System.Linq;
-
 
 namespace _15.HexToDecNum
 {
